@@ -26,4 +26,5 @@ fun sSplit(str1: String): MutableList<String> {
 
 fun main() {
     println(sSplit(s))
+
 }
